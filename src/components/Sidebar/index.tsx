@@ -77,7 +77,7 @@ export const SideBar = ({ firstNameUser, isOpen, setIsOpen }: SideBarProp) => {
           </div>
           <div className="flex gap-2 text-blue-950">
             <PhoneCall className="w-6 h-6" />
-            <a href="#">Telefones úteis</a>
+            <a href="http://localhost:5173/contact">Telefones úteis</a>
           </div>
           <div className="flex gap-2 text-blue-950">
             <Bell className="w-6 h-6" />
